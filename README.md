@@ -2,7 +2,7 @@
 
 ## Overview
 This repository contains the dataset and analysis code for the manuscript
-" Interpretable Machine Learning for Cross-Material Structure-Property Relationships in Air Filtration Media" submitted to [journal name]. The study applies
+" Interpretable Machine Learning for Cross-Material Structure-Property Relationships in Air Filtration Media". The study applies
 interpretable machine learning to predict and explain air filtration
 performance across 227 filter media samples spanning 23 material families
 and seven architectural configurations.

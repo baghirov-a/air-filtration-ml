@@ -1,5 +1,5 @@
 # Interpretable Machine Learning for Cross-Material Structure-Property Relationships in Air Filtration Media
-
+[![DOI](https://zenodo.org/badge/1247237937.svg)](https://doi.org/10.5281/zenodo.20357451)
 ## Overview
 This repository contains the dataset and analysis code for the manuscript
 " Interpretable Machine Learning for Cross-Material Structure-Property Relationships in Air Filtration Media". The study applies
